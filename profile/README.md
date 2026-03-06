@@ -11,6 +11,7 @@ At Webisso, we focus on innovative design and development to make your brand sta
 * 📱 **[qr-generator](https://github.com/Webisso/qr-generator)** – Privacy-focused, client-side, and multi-language QR code generator.
 * 🃏 **[playing-cards](https://github.com/Webisso/playing-cards)** – Open-source playing card assets available in PNG and SVG formats.
 * 🛡️ **[wireguard-apple](https://github.com/Webisso/wireguard-apple)** – A maintained mirror of the official WireGuard implementation for Apple.
+* 📊 **[excel-editor](https://github.com/Webisso/excel-editor)** – Upload and manage Excel files with a clean table view, barcode search in your browser.
 
 ---
 *Maintained with ❤️ by the Webisso Team.*
