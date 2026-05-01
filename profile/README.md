@@ -6,7 +6,7 @@ At Webisso, we focus on innovative design and development to make your brand sta
 
 ## 🛠 Our Projects
 
-* ☁️ **[cloudstorage-filemanager](https://github.com/Webisso/cloudstorage-filemanager)** – Modern web-based file manager for DigitalOcean Spaces (S3-compatible), built with React + TypeScript + Vit
+* ☁️ **[cloudstorage-filemanager](https://github.com/Webisso/cloudstorage-filemanager)** – Modern web-based file manager for DigitalOcean Spaces (S3-compatible)
 * 🤖 **[file-translator](https://github.com/Webisso/file-translator)** – AI-powered file translation UI with seamless n8n integration.
 * 📰 **[swipe-rss](https://github.com/Webisso/swipe-rss)** – Multi-language RSS library in OPML format for global feed management.
 * 📱 **[qr-generator](https://github.com/Webisso/qr-generator)** – Privacy-focused, client-side, and multi-language QR code generator.
