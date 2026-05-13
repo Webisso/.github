@@ -6,6 +6,7 @@ At Webisso, we focus on innovative design and development to make your brand sta
 
 ## 🛠 Our Projects
 
+* 💻 **[webiqu-ssh-workspace](https://github.com/Webisso/webiqu-ssh-workspace)** – Native macOS SSH workspace app built with SwiftUI and SwiftData.
 * ☁️ **[cloudstorage-filemanager](https://github.com/Webisso/cloudstorage-filemanager)** – Modern web-based file manager for DigitalOcean Spaces (S3-compatible)
 * 🤖 **[file-translator](https://github.com/Webisso/file-translator)** – AI-powered file translation UI with seamless n8n integration.
 * 📰 **[swipe-rss](https://github.com/Webisso/swipe-rss)** – Multi-language RSS library in OPML format for global feed management.
