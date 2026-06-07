@@ -6,6 +6,7 @@ At Webisso, we focus on innovative design and development to make your brand sta
 
 ## 🛠 Our Projects
 * 💵 **[currency-api](https://github.com/Webisso/currency-api)** - Production-ready currency rates collector and historical JSON API.
+* 📁 **[laravel-multishare](https://github.com/Webisso/laravel-multishare)** - Laravel + React application for publishing temporary public share pages.
 * 💻 **[webiqu-ssh-workspace](https://github.com/Webisso/webiqu-ssh-workspace)** – Native macOS SSH workspace app built with SwiftUI and SwiftData.
 * ☁️ **[cloudstorage-filemanager](https://github.com/Webisso/cloudstorage-filemanager)** – Modern web-based file manager for DigitalOcean Spaces (S3-compatible)
 * 🤖 **[file-translator](https://github.com/Webisso/file-translator)** – AI-powered file translation UI with seamless n8n integration.
