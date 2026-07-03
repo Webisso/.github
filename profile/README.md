@@ -6,8 +6,8 @@ At Webisso, we focus on innovative design and development to make your brand sta
 
 ## 🛠 Our Projects
 * 💵 **[currency-api](https://github.com/Webisso/currency-api)** - Production-ready currency rates collector and historical JSON API.
-* 💼 **[currency-api](https://github.com/Webisso/appstore-manager)** - An internal tool for managing App Store Connect metadata with AI.
-* 🌐 **[currency-api](https://github.com/Webisso/xcode-translator)** - A CLI tool that translates Xcode using Google Gemini AI.
+* 💼 **[appstore-manager](https://github.com/Webisso/appstore-manager)** - An internal tool for managing App Store Connect metadata with AI.
+* 🌐 **[xcode-translator](https://github.com/Webisso/xcode-translator)** - A CLI tool that translates Xcode using Google Gemini AI.
 * 📁 **[laravel-multishare](https://github.com/Webisso/laravel-multishare)** - Laravel + React application for publishing temporary public share pages.
 * 💻 **[webiqu-ssh-workspace](https://github.com/Webisso/webiqu-ssh-workspace)** – Native macOS SSH workspace app built with SwiftUI and SwiftData.
 * ☁️ **[cloudstorage-filemanager](https://github.com/Webisso/cloudstorage-filemanager)** – Modern web-based file manager for DigitalOcean Spaces (S3-compatible)
