@@ -5,6 +5,7 @@ At Webisso, we focus on innovative design and development to make your brand sta
 ---
 
 ## 🛠 Our Projects
+* ⛏️ **[minecraft-item-icons](https://github.com/Webisso/minecraft-item-icons)** – An open-source Minecraft icon library for browsing, searching, and using item.
 * 💵 **[currency-api](https://github.com/Webisso/currency-api)** - Production-ready currency rates collector and historical JSON API.
 * 💼 **[appstore-manager](https://github.com/Webisso/appstore-manager)** - An internal tool for managing App Store Connect metadata with AI.
 * 🌐 **[xcode-translator](https://github.com/Webisso/xcode-translator)** - A CLI tool that translates Xcode using Google Gemini AI.
@@ -19,4 +20,5 @@ At Webisso, we focus on innovative design and development to make your brand sta
 * 📊 **[excel-editor](https://github.com/Webisso/excel-editor)** – Upload and manage Excel files with a clean table view, barcode search in your browser.
 
 ---
+
 *Maintained with ❤️ by the Webisso Team.*
